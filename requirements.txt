@@ -1,0 +1,10 @@
+langgraph==0.3.12
+langchain-community==0.0.18
+langchain==0.0.247
+openai
+duckduckgo-search
+arxiv
+python-dotenv
+PyMuPDF
+fpdf
+streamlit
